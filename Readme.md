@@ -1,0 +1,2 @@
+# lyn-android
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Flyn-platform%2Flyn-android.svg?type=small)](https://app.fossa.com/projects/git%2Bgithub.com%2Flyn-platform%2Flyn-android?ref=badge_small)
